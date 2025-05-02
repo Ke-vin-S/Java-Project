@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codejam.codex</groupId>
-	<artifactId>authzen </artifactId>
+	<artifactId>authzen</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>authzen </name>
+	<name>authzen</name>
 	<description> Advanced Enterprise IAM System for Secure Access Control</description>
 	<url/>
 	<licenses>
